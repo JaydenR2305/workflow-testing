@@ -1,5 +1,5 @@
 def my_function():
     """
-    This is a non-breaking change
+    This is a breaking change
     """
     return True
