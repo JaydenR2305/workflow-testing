@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "WorkflowTesting"
 version = "0.0.1"
-dependencies = []
+dependencies = ["pytest"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
